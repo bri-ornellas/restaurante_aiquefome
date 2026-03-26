@@ -14,7 +14,7 @@ Crie um repositório com o nome “restaurante_aiquefome”.
 
 Crie os diretórios para organização dos arquivos. Exemplos: paginas, imagens, etc.
 
-Adicione uma subcategoria "Sobremesas" no menu contendo 3 opções aleatórias de sobremesas, este elemento será da lista principal ordenada (<ol>).
+Adicione uma subcategoria "Sobremesas" no menu contendo 3 opções aleatórias de sobremesas, este elemento será da lista principal ordenada (ol).
 
 Para cada elemento da lista secundária deverá ter um link para uma imagem de 150px por 150px do produto/comida escolhida. 
 
